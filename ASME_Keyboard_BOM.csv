@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW28,SW36,SW40,SW15,SW35,SW26,SW31,SW17,SW24,SW18,SW38,SW1,SW21,SW16,SW5,SW33,SW22,SW41,SW34,SW4,SW32,SW12,SW42,SW14,SW23,SW37,SW30,SW3,SW9,SW10,SW7,SW27,SW20,SW6,SW19,SW25,SW11,SW13,SW2,SW8,SW29,SW39";"Kailh_socket_MX";42;"SW_Push";;;
+2;"J16,J17,J6,J13,J15,J14";"MF_Connectors-POGO_PIN_70-9150";6;"Conn_01x01_Socket";;;
+3;"J1,J11,J10,J12,J9,J8";"MF_Connectors-POGO_PIN_70-9150";6;"Conn_01x01_Pin";;;
+4;"J22,J7,J20,J21,J19,J18";"PinHeader_1x05_P2.54mm_Vertical";6;"Conn_01x05_Pin";;;
+5;"U1,U2,U3";"nice_nano";3;"nice_nano";;;
+6;"J4,J2";"nice_view";2;"Conn_01x05_Pin";;;
+7;"J3,J5";"Joycon_edited_5pin";2;"Conn_01x05_Pin";;;
+8;"JP1";"SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm";1;"Jumper_2_Bridged";;;
+9;"D11,D32,D40,D28,D5,D38,D25,D12,D8,D37,D29,D9,D21,D6,D14,D7,D42,D39,D23,D19,D15,D13,D36,D17,D3,D10,D30,D22,D27,D31,D35,D4,D18,D26,D16,D20,D1,D24,D34,D41,D33,D2";"D_1206_3216Metric";42;"D";;;
