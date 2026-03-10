@@ -12,4 +12,6 @@ Schematic
 
 <img width="908" height="803" alt="Screenshot 2026-03-09 at 12 34 24 AM (2)" src="https://github.com/user-attachments/assets/9a648181-da5d-4041-93a8-88851225dc3c" />
 
+Gerber, BOM, and CTL (.pos) files in repo that are compatible with JLCPCB printing.
+
 Details on full project: https://erinpc.vercel.app
