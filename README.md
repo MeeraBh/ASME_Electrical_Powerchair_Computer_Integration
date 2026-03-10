@@ -1,5 +1,5 @@
 # ASME Electrical Powerchair Computer Integration
-This is repo contains the schematic, pcb, and gerber files from Kicad for a custom split keyboard PCB as well as all files needed to order the pcb on JLCPCB.
+This is repo contains the schematic, pcb, and gerber files from Kicad for a custom ortholinear split keyboard PCB as well as all files needed to order the pcb on JLCPCB.
 
 This project was made for ASME - Product Development and will be shown at Engineering Open House.  
 
