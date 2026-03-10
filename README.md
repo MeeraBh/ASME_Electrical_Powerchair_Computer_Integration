@@ -1,7 +1,9 @@
 # ASME Electrical Powerchair Computer Integration
 This is repo contains the schematic, pcb, and gerber files from Kicad for a custom split keyboard PCB as well as all files needed to order the pcb on JLCPCB.
 
-This project was made for ASME - Product Development and will be shown at Engineering Open House.  It is intended to be used for a powerchair in which the PCB contains the peripherals for the computer minus the monitor itself.  These peripherals are the keyboard itself, 2 OLED screens (Nice!Views), and 2 joysticks.  There are also a total of 3 microcontrollers (Nice!Nanos) that can connect to each other through bluetooth and communicate.  The keyboard can also be used as split design or merged together as a full keyboard due to the connections in the center.
+This project was made for ASME - Product Development and will be shown at Engineering Open House.  
+
+It is intended to be used for a powerchair in which the PCB contains the peripherals for the computer minus the monitor itself in which the mainboard of the computer is connected to the powerchair.  These peripherals are the keyboard itself, 2 OLED screens (Nice!Views), and 2 joysticks.  There are also a total of 3 microcontrollers (Nice!Nanos) that can connect to each other through bluetooth and communicate.  The keyboard can also be used as split design or merged together as a full keyboard due to the connections in the center.
 
 # Keyboard
 PCB
