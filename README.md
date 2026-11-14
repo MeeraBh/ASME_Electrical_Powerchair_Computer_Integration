@@ -6,6 +6,7 @@ This project was made for ASME - Product Development and will be shown at Engine
 It is intended to be used for a powerchair in which the PCB contains the peripherals for the computer minus the monitor itself in which the mainboard of the computer is connected to the powerchair.  These peripherals are the keyboard itself, 2 OLED screens (Nice!Views), and 2 joysticks.  There are also a total of 3 microcontrollers (Nice!Nanos) that can connect to each other through bluetooth and communicate.  The keyboard can also be used as split design or merged together as a full keyboard due to the connections in the center.
 
 # Keyboard
+V1
 PCB
 <img width="1392" height="567" alt="Screenshot 2026-03-09 at 12 35 01 AM" src="https://github.com/user-attachments/assets/0070cd95-bc34-40c5-9266-9685fdb5f7cd" />
 3D View Front
@@ -15,6 +16,16 @@ PCB
 Schematic
 
 <img width="908" height="803" alt="Screenshot 2026-03-09 at 12 34 24 AM (2)" src="https://github.com/user-attachments/assets/9a648181-da5d-4041-93a8-88851225dc3c" />
+
+
+V2
+PCB
+<img width="1018" height="384" alt="Screenshot 2026-11-14 at 2 05 37 AM" src="https://github.com/user-attachments/assets/0776e73e-a42b-49ed-8ea4-1d617b767cbe" />
+3D View Front
+<img width="817" height="338" alt="Screenshot 2026-11-14 at 2 06 19 AM" src="https://github.com/user-attachments/assets/cbc966bb-24d8-4dc6-a8d4-1e9a94feaaf4" />
+3D View Back
+<img width="701" height="302" alt="Screenshot 2026-11-14 at 2 06 37 AM" src="https://github.com/user-attachments/assets/71552f01-0690-4140-95d5-635969526892" />
+
 
 Gerber, BOM, and CTL (.pos) files in repo that are compatible with JLCPCB printing.
 
